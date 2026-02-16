@@ -20,6 +20,12 @@ Vollständiges Shop-System – selbst entwickelt.
 - /shop – Öffnet Shop
 - /shopreload – YAMLs neu laden
 
+## Used server + status
+NovaSMP : OFFLINE
+UltraSMP : OFFLINE
+LuckySMP (nexoraSMP) : OFFNLINE
+GOLDENCITY : LONG MAINTENANCE WORK 
+
 ## Config (shops/rüstung.yml)
 ```yaml
 items:
@@ -29,10 +35,3 @@ items:
   iron_sword:
     buy-price: 200.0
     sell-price: 100.0
-
-
-Used server + status
-NovaSMP : OFFLINE
-UltraSMP : OFFLINE
-LuckySMP (nexoraSMP) : OFFNLINE
-GOLDENCITY : LONG MAINTENANCE WORK 
