@@ -21,10 +21,10 @@ Vollständiges Shop-System – selbst entwickelt.
 - /shopreload – YAMLs neu laden
 
 ## Used server + status
-NovaSMP : OFFLINE
-UltraSMP : OFFLINE
-LuckySMP (nexoraSMP) : OFFNLINE
-GOLDENCITY : LONG MAINTENANCE WORK 
+- NovaSMP : OFFLINE
+- UltraSMP : OFFLINE
+- LuckySMP (nexoraSMP) : OFFNLINE
+- GOLDENCITY : LONG MAINTENANCE WORK 
 
 ## Config (shops/rüstung.yml)
 ```yaml
